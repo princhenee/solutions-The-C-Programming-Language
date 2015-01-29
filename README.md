@@ -10,4 +10,4 @@ really appreciate those great changes brought by C. I will take C
 as my part-time job and would like to contribute to some open source
 C projects later.
 
-I put this project under the MIT Lisense.
+This project under the MIT Lisense.
