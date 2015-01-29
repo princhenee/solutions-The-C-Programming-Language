@@ -7,5 +7,7 @@ in "The C Programming Language" by Brian W. Kernighan and Dennis M.
 
 I do this to show my respect to Kernighan and Ritchie. In fact, I
 really appreciate those great changes brought by C. I will take C
-as my part-time job and would like to contribute to some open sour
--ce C projects later.
+as my part-time job and would like to contribute to some open source
+C projects later.
+
+I put this project under the MIT Lisense.
