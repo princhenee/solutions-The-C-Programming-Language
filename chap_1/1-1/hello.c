@@ -3,7 +3,7 @@
  * Author:   Ge CHEN <princhenee1991@126.com>
  * Date:     2015-01-29
  *
- * Exercise 1-1,
+ * Exercise 1-1
  *
  * Run the "Hello, world" program on your system. Experiment with
  * leaving out parts of the program, to see what error messages you get.
