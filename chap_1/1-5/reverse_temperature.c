@@ -1,5 +1,5 @@
 /*
- * Filename:    temperature_with_heading.c
+ * Filename:    reverse_temperature.c
  * Author:      Ge CHEN <princhenee1991@126.com>
  * Date:        2015-01-31
  *
